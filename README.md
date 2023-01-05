@@ -1,4 +1,4 @@
-# Robust Bayesian Ordinal Regression Model via Divergence Approach
+# Robust Bayesian Ordinal Regression Model via Divergence Approach (in preparation)
 
 This repository provides the R code implementing the robust bayesian inference for the ordinal response model via the divergence approach, as proposed by the following paper.
 
