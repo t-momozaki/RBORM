@@ -2,7 +2,7 @@
 
 This repository provides the R code implementing the robust bayesian inference for the ordinal response model via the divergence approach, as proposed by the following paper.
 
-Momozaki, T. and Nakagawa, T. (2023). Bayesian ordinal response model for robustness against outliers via divergence approach. 
+Momozaki, T. and Nakagawa, T. (2023). Bayesian ordinal response model for robustness against outliers via divergence approach. (in preparation)
 
 The repository includes the following files.
 - robustORM_WLB.R: The script implementing the proposed bayesian inference methods for the ordinal response model with the density-power and $\gamma$-divergences using the weighted likelihood bootstrap (Newton and Raftery, 1994, JRSSB)
